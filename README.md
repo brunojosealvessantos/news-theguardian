@@ -19,7 +19,8 @@ busca_news(dados)
 busca_arts(dados)
 
 ```
-
+### Execução
+>Pré-requisitos: Ter Git e Python 3 instalados na máquina
 ```sh
 git clone https://github.com/brunojosealvessantos/news-theguardian.git
 

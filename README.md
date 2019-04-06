@@ -1,6 +1,6 @@
 # News-The Guardian 
 
-![The Guardian] (https://media-manager.noticiasaominuto.com/naom_5ae1d9b0e3b1e.jpg?&w=1920)
+![The Guardian](https://media-manager.noticiasaominuto.com/naom_5ae1d9b0e3b1e.jpg?&w=1920)
 
 > Um script modularizado para buscar, atraves de uma API, as ultimas noticias do Jornal de Guardian e links dessa cotegoria.
 
